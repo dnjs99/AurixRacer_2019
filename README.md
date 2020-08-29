@@ -16,4 +16,6 @@
 - ApplicationKit_TC237
 - ShieldBuddy_TC275D
 
-[![Analytics](https://ga-beacon.appspot.com/UA-137501847-1/AurixRacer/README.md?pixel)](https://github.com/realsosy/aurixracer)
+##실사용 코드
+
+- src/MyApp/.../Tricore/
